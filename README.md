@@ -41,18 +41,6 @@
 
 ---
 
-## 📈 GitHub Stats
-
-<div align="center">
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=aiwithmahtab&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aiwithmahtab&layout=compact&theme=radical)
-
-</div>
-
----
-
 ## 🌐 Connect With Me
 
 💖 YouTube: **AI with Mahtab**  
