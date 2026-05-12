@@ -1,38 +1,68 @@
+<div align="center">
 
-# Hi, I'm Mahtab 👋
+# <span style="color:#ff4d6d;">Hi, I'm Mahtab 👋</span>
 
-PhD Candidate in AI at Malmö University
+### 🌸 PhD Candidate in AI & Computer Vision  
+### 💻 Deep Learning • Object Detection • AI Research  
+### 🇸🇪 Malmö University
 
-## Research Interests
-- Computer Vision
-- Object Detection
-- Deep Learning
-- Context-Aware AI
-- Federated Learning
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&color=FF4D6D&center=true&vCenter=true&width=600&lines=AI+Researcher;Computer+Vision+Engineer;Deep+Learning+Enthusiast;Building+Context-Aware+AI+Systems" />
 
-## Current Work
-- Scene-Aware Mixture of Experts (SA-MoE)
-- Low-Light Object Detection
-- Fall Detection Systems
+</div>
 
-## Contact
-- YouTube: AI with Mahtab
-- Website: aiwithmahtab.net
+---
 
+## 🌷 About Me
 
+✨ Passionate about Artificial Intelligence and Computer Vision  
+🧠 Working on Object Detection, Scene Understanding, and Deep Learning  
+🚀 Building Context-Aware AI Systems  
+🎥 Creator of **AI with Mahtab**  
+📚 Researching Mixture-of-Experts and Vision Models  
 
+---
 
-<!--
-**aiwithmahtab/aiwithmahtab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🔬 Current Research
 
-Here are some ideas to get you started:
+🌟 Scene-Aware Mixture of Experts (SA-MoE)  
+🌙 Low-Light Object Detection  
+🛡️ Privacy-Preserving Federated Learning  
+🎯 Context-Based Vision Systems  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 💻 Tech Stack
+
+<p align="center">
+
+<img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,opencv,github,vscode,linux" />
+
+</p>
+
+---
+
+## 📈 GitHub Stats
+
+<div align="center">
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=aiwithmahtab&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=aiwithmahtab&layout=compact&theme=radical)
+
+</div>
+
+---
+
+## 🌐 Connect With Me
+
+💖 YouTube: **AI with Mahtab**  
+🌍 Website: **aiwithmahtab.net**  
+📚 Research • AI • Computer Vision
+
+---
+
+<div align="center">
+
+✨ Thanks for visiting my profile ✨
+
+</div>
