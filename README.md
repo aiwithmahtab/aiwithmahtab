@@ -1,4 +1,26 @@
-## Hi there 👋
+
+# Hi, I'm Mahtab 👋
+
+PhD Candidate in AI at Malmö University
+
+## Research Interests
+- Computer Vision
+- Object Detection
+- Deep Learning
+- Context-Aware AI
+- Federated Learning
+
+## Current Work
+- Scene-Aware Mixture of Experts (SA-MoE)
+- Low-Light Object Detection
+- Fall Detection Systems
+
+## Contact
+- YouTube: AI with Mahtab
+- Website: aiwithmahtab.net
+
+
+
 
 <!--
 **aiwithmahtab/aiwithmahtab** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
